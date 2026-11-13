@@ -1,0 +1,6 @@
+*.tsv
+*.zip
+*.csv
+.venv/
+__pycache__/
+trial*.html
